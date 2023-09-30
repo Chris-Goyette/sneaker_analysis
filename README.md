@@ -19,11 +19,14 @@
 - Set up GitHub repository
 - Installed required Python libraries
 - Loaded the StockX dataset into a Jupyter Notebook
+- Cleaned up data for analysis 
+- Conducted initial exploratory analysis (EDA) 
+- Added histogram, boxplot, and violin plots 
 
 ## Future Work
 
-- Data cleaning and transformation
-- Exploratory data analysis
+- ✅ ~~Data cleaning and transformation~~
+- ✅ ~~Exploratory data analysis~~
 - Apply SQL queries for specific insights
 - Data visualization
 - Documentation
